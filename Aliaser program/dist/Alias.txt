@@ -1,0 +1,1 @@
+@spawn marine;@removeweapon marine;@addweapon thor
